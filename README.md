@@ -35,6 +35,30 @@ php-mysql-html5-css3
 
 
 ## Paso 2 - Instalar MySQLS
+   
+   MySQL es un administrador de base de datos. Basicamente organizara y provera acceso a las bases de datos donde el sitio guarde informacion
+
+   - Usar apt para adquirir e instalar este software 
+
+      - $ sudo apt install mysql-server
+
+      ### Nota en este caso no es necesario utilizar  sudo apt update
+
+   De nuevo se te desplegará una lista de paquetes a instalar, así como el espacio en disco que requerirá. Presiona "Y" ó "S" para continuar.
+
+   Cuando la instalación esté completa, debes ejecutar un archivo de comandos de seguridad que viene preinstalado con MySQL, éste removerá algunos parámetros peligrosos, así como asegurará el acceso a tu base de datos. Ejecuta el archivo interactivo de comandos mediante:
+
+   - $ sudo mysql_secure_installation
+
+
+
+## Paso 3 - Instalar PHP
+   
+   php es el componente de configuracion que procesa codigo para desplegar contenido dinamico 
+
+   Configurar para que se ejecute sobre el servidor Apache y para que se comunique con la base de datos MySQL
+
+
 
 # Objetivos de aprendizaje:
   
