@@ -34,4 +34,12 @@ php-mysql-html5-css3
             80, 443/tcp
 
 
-## Paso  - Instalar MySQLS
+## Paso 2 - Instalar MySQLS
+
+# Objetivos de aprendizaje:
+  
+  ## Objetivo 1 - SQL(Intermedio)
+  ## Objetivo 2 - HTML5(Formulario, div, clases, id, elementos)
+  ## Objetivo 3 - jQuery
+  ## Objetivo 4 - Javascript
+  ## Objetivo 5 - PHP
