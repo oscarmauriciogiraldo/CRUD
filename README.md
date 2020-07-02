@@ -51,18 +51,35 @@ php-mysql-html5-css3
    - $ sudo mysql_secure_installation
 
 
+   Se te preguntará si quieres configurar el conector de validación de contraseña: 
+
+
+
+
 
 ## Paso 3 - Instalar PHP
    
    php es el componente de configuracion que procesa codigo para desplegar contenido dinamico 
 
    Configurar para que se ejecute sobre el servidor Apache y para que se comunique con la base de datos MySQL
+   
 
+   - $ sudo apt install php libapache2-mod-php php-mysql
 
 
 # Objetivos de aprendizaje:
   
   ## Objetivo 1 - SQL(Intermedio)
+       visualizacion de una base de datos:
+         - Show databases
+   ### 1.1. Crear Base de datos
+       Regularmente las ordenes se escriben en mayusculas
+       $ CREATE DATABASE base_de_datos_prueba;
+
+       $CREATE TABLE usuarios_pruebas ();
+   ### 
+   ### 
+   ### 
   ## Objetivo 2 - HTML5(Formulario, div, clases, id, elementos)
   ## Objetivo 3 - jQuery
   ## Objetivo 4 - Javascript
